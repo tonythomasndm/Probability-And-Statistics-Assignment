@@ -2,8 +2,7 @@
 
 To run this preogram, install the python libraries : Numpy and Matplotlib according to ur system
 To run the program : python3 PDFsOfDifferentTimespans.py
-Make sure you are in the same repository
-
+Make sure you are in the same directory.
 
 Task:
 Observe the time gaps between your next 30 WhatsApp messages. (You may replace WhatsApp with any instant messaging app of your choice, or email messages if you prefer)
